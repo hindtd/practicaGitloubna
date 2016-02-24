@@ -1,6 +1,7 @@
 public class Jarra
 public void metodohind(){
 System.out.println("hind");
+System.out.println("modificado por hind");
 }
 {
 	// The state variables
@@ -58,5 +59,7 @@ System.out.println("asmae");
 	public void comentario(){
 	    //comentario incluido para pruebas
 System.out.println("aqui escribimos todos");
+//modificaciones hind
+System.out.println ("hind inserta esta sentencia");
 }
 }
