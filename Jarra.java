@@ -1,20 +1,21 @@
-public class Jarra 
+public class Jarra
 {
 	// The state variables
-	
+	//loubna
+
 	private int capacidad;
 	private int contenido;
-	
+
 	// Constructors
-	
+
 	public Jarra(int x)
 	{
 		capacidad = x;
 		contenido =0;
 	}
-	
+
 	// The methods
-	
+
 	public int capacidad()
 	{
 		return capacidad;
