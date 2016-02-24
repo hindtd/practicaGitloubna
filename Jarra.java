@@ -1,4 +1,7 @@
 public class Jarra
+public void metodohind(){
+System.out.println("hind");
+}
 {
 	// The state variables
 	//loubna
@@ -15,6 +18,9 @@ public class Jarra
 	}
 
 	// The methods
+	public void metodoasmae(){
+System.out.println("asmae");
+}
 
 	public int capacidad()
 	{
@@ -49,4 +55,8 @@ public class Jarra
 	{
 		return "la capacidad es "+this.capacidad+" el contenido es "+this.contenido;
 	}
+	public void comentario(){
+	    //comentario incluido para pruebas
+System.out.println("aqui escribimos todos");
+}
 }
